@@ -1,4 +1,4 @@
-# Projects
+# Breast Cancer Classifications 
 This project aims to perform binary classification to detect presence of cancerous cells in histopathological scans. 
 The images are taken from the histopathological scans of lymph node sections from Kaggle Histopathological cancer detection challenge and provide tumor visualizations of tumor tissues.
 
