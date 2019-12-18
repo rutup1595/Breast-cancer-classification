@@ -1,6 +1,4 @@
 # Breast Cancer Classifications 
-This project aims to perform binary classification to detect presence of cancerous cells in histopathological scans. 
-The images are taken from the histopathological scans of lymph node sections from Kaggle Histopathological cancer detection challenge and provide tumor visualizations of tumor tissues.
 
 The proposed methods include Deep Learning based approaches to create classifier frameworks which perform end to end data set manipulation, training, test augmentation and detection.Transfer learning using Resnet and Densenet architectures was performed.Specifically, ResNet50, ResNet152 and DenseNet169 models were tried.
 
